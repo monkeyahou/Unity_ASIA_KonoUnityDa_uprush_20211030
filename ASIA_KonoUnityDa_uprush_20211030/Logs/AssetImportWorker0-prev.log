@@ -1,0 +1,535 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.18f1 (a7d1c678663c) revision 10998214'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.1288; Version 2009; 64bit' Language: 'zh' Physical Memory: 8037 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.18f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/User/Desktop/Unity_ASIA_KonoUnityDa_uprush_20211030/ASIA_KonoUnityDa_uprush_20211030
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+52645
+Successfully changed project path to: C:/Users/User/Desktop/Unity_ASIA_KonoUnityDa_uprush_20211030/ASIA_KonoUnityDa_uprush_20211030
+C:/Users/User/Desktop/Unity_ASIA_KonoUnityDa_uprush_20211030/ASIA_KonoUnityDa_uprush_20211030
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 51.40 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.18f1 (a7d1c678663c)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/User/Desktop/Unity_ASIA_KonoUnityDa_uprush_20211030/ASIA_KonoUnityDa_uprush_20211030/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1650 (ID=0x1f91)
+    Vendor:   
+    VRAM:     3962 MB
+    Driver:   25.21.14.1788
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56524
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.005719 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 37.69 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.602 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3602ms)
+		BeginReloadAssembly (59ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (3ms)
+		EndReloadAssembly (432ms)
+			LoadAssemblies (54ms)
+			RebuildTransferFunctionScriptingTraits (2ms)
+			SetupTypeCache (173ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (28ms)
+			SetupLoadedEditorAssemblies (151ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (38ms)
+				BeforeProcessingInitializeOnLoad (7ms)
+				ProcessInitializeOnLoadAttributes (74ms)
+				ProcessInitializeOnLoadMethodAttributes (26ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.007682 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 37.45 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.092 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1094ms)
+		BeginReloadAssembly (137ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (20ms)
+		EndReloadAssembly (897ms)
+			LoadAssemblies (157ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (262ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (41ms)
+			SetupLoadedEditorAssemblies (315ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (38ms)
+				BeforeProcessingInitializeOnLoad (60ms)
+				ProcessInitializeOnLoadAttributes (194ms)
+				ProcessInitializeOnLoadMethodAttributes (12ms)
+				AfterProcessingInitializeOnLoad (7ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 0.39 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2090 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.7 MB.
+System memory in use after: 93.8 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2529.
+Total: 3.121000 ms (FindLiveObjects: 0.202100 ms CreateObjectMapping: 0.066200 ms MarkObjects: 2.766400 ms  DeleteObjects: 0.085400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Scenes
+  artifactKey: Guid(d4a4492dc1f6f6d47b4d1d55d203850c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(d4a4492dc1f6f6d47b4d1d55d203850c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3769c1c129f7b519c076c848b4e6aac9') in 0.007701 seconds 
+  Import took 0.011424 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 39.001967 seconds.
+  path: Assets/場景素材
+  artifactKey: Guid(605b5f1cffbd46a459ad20a1d5ee28f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/場景素材 using Guid(605b5f1cffbd46a459ad20a1d5ee28f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69051133cc951d088aea6eb6255853e1') in 0.003916 seconds 
+  Import took 0.008593 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.254175 seconds.
+  path: Assets/場景素材/場景地板背景素材.png
+  artifactKey: Guid(ecc328ea2ff9ab84887a987d5487329c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/場景素材/場景地板背景素材.png using Guid(ecc328ea2ff9ab84887a987d5487329c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c8ef1f5f10d4dd2659b339ef7e960fd') in 0.129338 seconds 
+  Import took 0.133058 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1798.263295 seconds.
+  path: Assets/場景素材/場景地板背景素材.png
+  artifactKey: Guid(ecc328ea2ff9ab84887a987d5487329c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/場景素材/場景地板背景素材.png using Guid(ecc328ea2ff9ab84887a987d5487329c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '018eace86c5c56e168cb2fae8c84fb90') in 0.107562 seconds 
+  Import took 0.237772 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.449223 seconds.
+  path: Assets/場景素材/場景地板背景素材.png
+  artifactKey: Guid(ecc328ea2ff9ab84887a987d5487329c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/場景素材/場景地板背景素材.png using Guid(ecc328ea2ff9ab84887a987d5487329c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c2d8acd9dc3b78c960e3a33f384d50c') in 0.098484 seconds 
+  Import took 0.103380 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 280.864703 seconds.
+  path: Assets/場景
+  artifactKey: Guid(ebb576e52b92f5741b5300a16840502c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/場景 using Guid(ebb576e52b92f5741b5300a16840502c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be741fcb03102cc21cddb836352b4524') in 0.006173 seconds 
+  Import took 0.013109 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.892720 seconds.
+  path: Assets/場景/遊戲場景.unity
+  artifactKey: Guid(dc491671912470a4f8df42a6046e101b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/場景/遊戲場景.unity using Guid(dc491671912470a4f8df42a6046e101b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62fdb2fcf3ce4f23beea641ace539e2b') in 0.011146 seconds 
+  Import took 0.015688 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 175.557629 seconds.
+  path: Assets/調色盤/地形.prefab
+  artifactKey: Guid(1e87d441ebd287a48a505818d2f097ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/調色盤/地形.prefab using Guid(1e87d441ebd287a48a505818d2f097ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ea41a891e008c6014e25271ca8cfeca') in 0.322937 seconds 
+  Import took 0.327303 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 475.151035 seconds.
+  path: Assets/場景素材/場景地板背景素材 1.png
+  artifactKey: Guid(f19e1f7b20721c34d8418d6a1641a9be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/場景素材/場景地板背景素材 1.png using Guid(f19e1f7b20721c34d8418d6a1641a9be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9023383faea2242ab574c28d6ca1f114') in 0.099218 seconds 
+  Import took 0.104176 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 104.284678 seconds.
+  path: Assets/調色盤/地形.prefab
+  artifactKey: Guid(1e87d441ebd287a48a505818d2f097ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/調色盤/地形.prefab using Guid(1e87d441ebd287a48a505818d2f097ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bfe74c3465cf62ba7739a89160115ca0') in 0.060322 seconds 
+  Import took 0.064746 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000339 seconds.
+  path: Assets/調色盤/場景地板背景素材_2.asset
+  artifactKey: Guid(dd9a2531aebe6594ba4ca0a526c2aa4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/調色盤/場景地板背景素材_2.asset using Guid(dd9a2531aebe6594ba4ca0a526c2aa4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64af20205d1cb9b2d26af340a948f9fd') in 0.098745 seconds 
+  Import took 0.102863 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/調色盤/場景地板背景素材_1.asset
+  artifactKey: Guid(fc82711fe26c24544b001e0315b17c7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/調色盤/場景地板背景素材_1.asset using Guid(fc82711fe26c24544b001e0315b17c7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c347c1e88c4aecd7066d41e2c33ea66') in 0.010513 seconds 
+  Import took 0.015101 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000341 seconds.
+  path: Assets/調色盤/場景地板背景素材_0.asset
+  artifactKey: Guid(dbab9d80059adab4d96fd6bcb3f6ec65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/調色盤/場景地板背景素材_0.asset using Guid(dbab9d80059adab4d96fd6bcb3f6ec65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24923d37aa30e1ec0624f9dd72bb2d7d') in 0.011485 seconds 
+  Import took 0.015286 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/調色盤/場景地板背景素材_3.asset
+  artifactKey: Guid(30960c2e5dfda6f439e3ca6d21da88f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/調色盤/場景地板背景素材_3.asset using Guid(30960c2e5dfda6f439e3ca6d21da88f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9e30237132aa17c694241eb72192fa8') in 0.012359 seconds 
+  Import took 0.016231 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.765210 seconds.
+  path: Assets/調色盤/場景地板背景素材_7.asset
+  artifactKey: Guid(d2195398a92d9cf4e8061968c91d1d52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/調色盤/場景地板背景素材_7.asset using Guid(d2195398a92d9cf4e8061968c91d1d52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f39a6eb11a2ef9926931b4f034d846c') in 0.009808 seconds 
+  Import took 0.014852 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.202495 seconds.
+  path: Assets/調色盤/場景地板背景素材_8.asset
+  artifactKey: Guid(d9a9f1cb203573f4fac9b1b2339ac44c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/調色盤/場景地板背景素材_8.asset using Guid(d9a9f1cb203573f4fac9b1b2339ac44c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5044cc6fe153ed42f09c93f5c1c94f03') in 0.007869 seconds 
+  Import took 0.012091 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.164916 seconds.
+  path: Assets/調色盤/場景地板背景素材_9.asset
+  artifactKey: Guid(eb5a4d6e13ce3304aa8a9f82cde23ed7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/調色盤/場景地板背景素材_9.asset using Guid(eb5a4d6e13ce3304aa8a9f82cde23ed7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '948636f3bc98f5cbee1932f044eaca29') in 0.008580 seconds 
+  Import took 0.013010 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004439 seconds.
+  path: Assets/調色盤/場景地板背景素材_9.asset
+  artifactKey: Guid(eb5a4d6e13ce3304aa8a9f82cde23ed7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/調色盤/場景地板背景素材_9.asset using Guid(eb5a4d6e13ce3304aa8a9f82cde23ed7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '948636f3bc98f5cbee1932f044eaca29') in 0.008906 seconds 
+  Import took 0.013757 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.063663 seconds.
+  path: Assets/調色盤/場景地板背景素材_10.asset
+  artifactKey: Guid(58d36a8292f3bbc45a4bc8cabf335eba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/調色盤/場景地板背景素材_10.asset using Guid(58d36a8292f3bbc45a4bc8cabf335eba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e610fc647620adf670589fcd32acd079') in 0.008203 seconds 
+  Import took 0.014238 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000572 seconds.
+  path: Assets/調色盤/場景地板背景素材_16.asset
+  artifactKey: Guid(85971214be3a8544eb875c768182c19b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/調色盤/場景地板背景素材_16.asset using Guid(85971214be3a8544eb875c768182c19b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd7de714832422ca93ab9150e824d513') in 0.008972 seconds 
+  Import took 0.014163 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000297 seconds.
+  path: Assets/調色盤/場景地板背景素材_15.asset
+  artifactKey: Guid(063eb12e9a780c1408351fe99565e5f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/調色盤/場景地板背景素材_15.asset using Guid(063eb12e9a780c1408351fe99565e5f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'beec59bb9c272af0d2b74cc73c7ae496') in 0.009436 seconds 
+  Import took 0.013406 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000385 seconds.
+  path: Assets/調色盤/場景地板背景素材_14.asset
+  artifactKey: Guid(5d5642c08cac24b41abcdb15dc0ac3b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/調色盤/場景地板背景素材_14.asset using Guid(5d5642c08cac24b41abcdb15dc0ac3b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f63a00a5fe9ef3c280a272cc76be62fe') in 0.009978 seconds 
+  Import took 0.014333 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.060625 seconds.
+  path: Assets/調色盤/場景地板背景素材_17.asset
+  artifactKey: Guid(52a5f0e40a6b0564f8615b4119856fc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/調色盤/場景地板背景素材_17.asset using Guid(52a5f0e40a6b0564f8615b4119856fc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd1fc89cc31b356da4c6c2ab29cd4395') in 0.008769 seconds 
+  Import took 0.012601 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/調色盤/場景地板背景素材_24.asset
+  artifactKey: Guid(a2302651c2eb9544e99f17d857eb296d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/調色盤/場景地板背景素材_24.asset using Guid(a2302651c2eb9544e99f17d857eb296d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2df6b63757c04124cf008de577316bc') in 0.012515 seconds 
+  Import took 0.016437 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000528 seconds.
+  path: Assets/調色盤/場景地板背景素材_17.asset
+  artifactKey: Guid(52a5f0e40a6b0564f8615b4119856fc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/調色盤/場景地板背景素材_17.asset using Guid(52a5f0e40a6b0564f8615b4119856fc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd1fc89cc31b356da4c6c2ab29cd4395') in 0.010504 seconds 
+  Import took 0.013890 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/調色盤/場景地板背景素材_23.asset
+  artifactKey: Guid(5667365e7c981a848a8f8b064b905e90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/調色盤/場景地板背景素材_23.asset using Guid(5667365e7c981a848a8f8b064b905e90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a47ac98d012259645e79455f0bd90288') in 0.011152 seconds 
+  Import took 0.015994 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/調色盤/場景地板背景素材_22.asset
+  artifactKey: Guid(26aab4a0081fe64419d32ecb5b894b09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/調色盤/場景地板背景素材_22.asset using Guid(26aab4a0081fe64419d32ecb5b894b09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4385656d588ca9da12a96f4b2540f722') in 0.010163 seconds 
+  Import took 0.015052 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.165994 seconds.
+  path: Assets/調色盤/場景地板背景素材_25.asset
+  artifactKey: Guid(99516ef588b3a6641a3a1805b77e6231) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/調色盤/場景地板背景素材_25.asset using Guid(99516ef588b3a6641a3a1805b77e6231) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3aac53dff4c1f9811e19ab14dfd4a2d5') in 0.010835 seconds 
+  Import took 0.015175 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/調色盤/場景地板背景素材_31.asset
+  artifactKey: Guid(c12691c5b35dd2d42ac7920cc4665955) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/調色盤/場景地板背景素材_31.asset using Guid(c12691c5b35dd2d42ac7920cc4665955) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa999bfca61c6347cc184e28d3a08f4f') in 0.009354 seconds 
+  Import took 0.013495 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/調色盤/場景地板背景素材_30.asset
+  artifactKey: Guid(dd01b21f6dc999b4ba31a11734452ede) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/調色盤/場景地板背景素材_30.asset using Guid(dd01b21f6dc999b4ba31a11734452ede) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87c0b15840befb18744c49f8c840c29a') in 0.008161 seconds 
+  Import took 0.014524 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/調色盤/場景地板背景素材_32.asset
+  artifactKey: Guid(7ad21631205efa448a297a3731f81602) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/調色盤/場景地板背景素材_32.asset using Guid(7ad21631205efa448a297a3731f81602) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '269ce3acd399d2696e85ad7f530b3230') in 0.008247 seconds 
+  Import took 0.012458 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000548 seconds.
+  path: Assets/調色盤/場景地板背景素材_25.asset
+  artifactKey: Guid(99516ef588b3a6641a3a1805b77e6231) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/調色盤/場景地板背景素材_25.asset using Guid(99516ef588b3a6641a3a1805b77e6231) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3aac53dff4c1f9811e19ab14dfd4a2d5') in 0.008400 seconds 
+  Import took 0.014007 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004402 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.704 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1709ms)
+		BeginReloadAssembly (827ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (124ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (304ms)
+		EndReloadAssembly (816ms)
+			LoadAssemblies (121ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (286ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (41ms)
+			SetupLoadedEditorAssemblies (266ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (60ms)
+				ProcessInitializeOnLoadAttributes (185ms)
+				ProcessInitializeOnLoadMethodAttributes (4ms)
+				AfterProcessingInitializeOnLoad (7ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (10ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2080 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.2 MB.
+System memory in use after: 96.4 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2545.
+Total: 3.285100 ms (FindLiveObjects: 0.168900 ms CreateObjectMapping: 0.060200 ms MarkObjects: 3.006600 ms  DeleteObjects: 0.048200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 950.637809 seconds.
+  path: Assets/場景素材/場景地板背景素材_11.asset
+  artifactKey: Guid(abe30c95625ff094abea36611c4bb172) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/場景素材/場景地板背景素材_11.asset using Guid(abe30c95625ff094abea36611c4bb172) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70b86583821c88d59bd6ab0782fa0798') in 0.076562 seconds 
+  Import took 0.083008 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000353 seconds.
+  path: Assets/場景素材/場景地板背景素材_12.asset
+  artifactKey: Guid(fb4b51f3fbf172a48b29691ce3c773df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/場景素材/場景地板背景素材_12.asset using Guid(fb4b51f3fbf172a48b29691ce3c773df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3dfe4005a56a46788aceab5a23e9ad8') in 0.014035 seconds 
+  Import took 0.017609 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.233075 seconds.
+  path: Assets/場景素材/場景地板背景素材_18.asset
+  artifactKey: Guid(20dd80651905388439b4c4a2bb2d4c20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/場景素材/場景地板背景素材_18.asset using Guid(20dd80651905388439b4c4a2bb2d4c20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '181c9571a8665b089355df45fb2d4f0b') in 0.011906 seconds 
+  Import took 0.015122 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/場景素材/場景地板背景素材_21.asset
+  artifactKey: Guid(bdf8324cde225d2468396b88131d1738) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/場景素材/場景地板背景素材_21.asset using Guid(bdf8324cde225d2468396b88131d1738) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c56aa1701a2b7538cb11352aaae348c2') in 0.011611 seconds 
+  Import took 0.016184 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000336 seconds.
+  path: Assets/場景素材/場景地板背景素材_20.asset
+  artifactKey: Guid(d1d0d0889b598404fa49b464faae4536) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/場景素材/場景地板背景素材_20.asset using Guid(d1d0d0889b598404fa49b464faae4536) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23fac4a645958cb55ba3164603bb0081') in 0.013262 seconds 
+  Import took 0.016564 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000347 seconds.
+  path: Assets/場景素材/場景地板背景素材_19.asset
+  artifactKey: Guid(9dfb1a45dd590eb4988f458492cb3cec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/場景素材/場景地板背景素材_19.asset using Guid(9dfb1a45dd590eb4988f458492cb3cec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c676d6be661524162e239d6acdb2ea24') in 0.016410 seconds 
+  Import took 0.020354 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000346 seconds.
+  path: Assets/場景素材/場景地板背景素材_28.asset
+  artifactKey: Guid(b0a8c5fcced912f4ca24b834e3d48b03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/場景素材/場景地板背景素材_28.asset using Guid(b0a8c5fcced912f4ca24b834e3d48b03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '648d5e5d63f9d1d86d860a81205f8962') in 0.012500 seconds 
+  Import took 0.016366 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/場景素材/場景地板背景素材_26.asset
+  artifactKey: Guid(3093e0468bcf48c458bd32f77cc17e2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/場景素材/場景地板背景素材_26.asset using Guid(3093e0468bcf48c458bd32f77cc17e2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fae2cc6b61dfdeabd92f11930c133020') in 0.016408 seconds 
+  Import took 0.021488 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000344 seconds.
+  path: Assets/場景素材/場景地板背景素材_27.asset
+  artifactKey: Guid(9c2b45b6ab3df3345bd04a31688ea4da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/場景素材/場景地板背景素材_27.asset using Guid(9c2b45b6ab3df3345bd04a31688ea4da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c06ba04ea3e4b98fd73f1c6006dcf174') in 0.012365 seconds 
+  Import took 0.016867 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013144 seconds.
+  path: Assets/場景素材/場景地板背景素材_27.asset
+  artifactKey: Guid(9c2b45b6ab3df3345bd04a31688ea4da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/場景素材/場景地板背景素材_27.asset using Guid(9c2b45b6ab3df3345bd04a31688ea4da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c06ba04ea3e4b98fd73f1c6006dcf174') in 0.009556 seconds 
+  Import took 0.013202 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.048596 seconds.
+  path: Assets/場景素材/場景地板背景素材_29.asset
+  artifactKey: Guid(e9fb3352808f0b64298bd8183d0aef06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/場景素材/場景地板背景素材_29.asset using Guid(e9fb3352808f0b64298bd8183d0aef06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '230e8da62fdad648024968013e26592a') in 0.008738 seconds 
+  Import took 0.011887 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
