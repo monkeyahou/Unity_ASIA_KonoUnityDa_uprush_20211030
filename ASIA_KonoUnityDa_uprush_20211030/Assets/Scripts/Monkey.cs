@@ -8,18 +8,29 @@ public class Monkey : MonoBehaviour
     public float height = 0;
     public bool dead = false;
     public bool unlock = true;
+
     public float moveSpeed;
+
+    public Rigidbody2D mrig;
+    
 
     private void Start()
     {
+        mrig = GetComponent<Rigidbody2D>();
         
     }
 
-    private void Update()
+    private void FixedUpdate()
     {
-        Vector2 monkeyMove = transform.position;
-        monkeyMove.x = monkeyMove.x + Input.GetAxis("Horizontal") * moveSpeed;
-        monkeyMove.y = monkeyMove.y + Input.GetAxis("Vertical") * moveSpeed;
-        transform.position = monkeyMove;
+        Vector2 monkeyPosition = transform.position;
+
+        float moveX = Input.GetAxis("Horizontal");
+        float moveY = Input.GetAxis("Vertical");
+
+
+        monkeyPosition.x += moveSpeed * moveX * Time.deltaTime;
+        monkeyPosition.y += moveSpeed * moveY * Time.deltaTime;
+        
+        mrig.MovePosition(monkeyPosition);
     }
 }
