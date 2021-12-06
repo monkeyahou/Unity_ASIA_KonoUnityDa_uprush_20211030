@@ -26,6 +26,9 @@ TextureImporter:
   - first:
       213: 3783324985767284600
     second: "\u86C7_7"
+  - first:
+      213: -378256927094939254
+    second: "\u86C7_8"
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -302,6 +305,27 @@ TextureImporter:
       bones: []
       spriteID: 87fc4869702118430800000000000000
       internalID: 3783324985767284600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u86C7_8"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81eca2345920caf0800000000000000
+      internalID: -378256927094939254
       vertices: []
       indices: 
       edges: []
