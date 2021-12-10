@@ -25,7 +25,7 @@ public class Monkey : MonoBehaviour
     #region 私人
     [SerializeField]
     private bool isGrounded;
-
+    
     private Rigidbody2D mrig;
     private Animator mAnim;
     #endregion
@@ -56,10 +56,10 @@ public class Monkey : MonoBehaviour
             transform.TransformDirection(checkGroundOffset), checkGroundRadius);
 
     }
-    #endregion
+#endregion
 
-    #region 方法
-    private void Flip()
+#region 方法
+private void Flip()
     {
         float h = Input.GetAxis("Horizontal");
 
