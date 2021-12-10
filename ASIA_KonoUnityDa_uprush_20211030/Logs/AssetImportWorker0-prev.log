@@ -1,126 +1,126 @@
 Using pre-set license
-Built from '2020.3/staging' branch; Version is '2020.3.20f1 (41c4e627c95f) revision 4310246'; Using compiler version '192528614'; Build Type 'Release'
-OS: 'Windows 10 Home; OS build 22000.348; Version 2009; 64bit' Language: 'zh' Physical Memory: 16229 MB
+Built from '2020.3/staging' branch; Version is '2020.3.18f1 (a7d1c678663c) revision 10998214'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.1348; Version 2009; 64bit' Language: 'zh' Physical Memory: 8037 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
 COMMAND LINE ARGUMENTS:
-D:\Program Files\Unity\Hub\Editor\2020.3.20f1\Editor\Unity.exe
+C:\Program Files\Unity\Hub\Editor\2020.3.18f1\Editor\Unity.exe
 -adb2
 -batchMode
 -noUpm
 -name
 AssetImportWorker0
 -projectPath
-C:/Users/user/Desktop/Unity_ASIA_KonoUnityDa_uprush_20211030/ASIA_KonoUnityDa_uprush_20211030
+C:/Users/User/Desktop/Unity_ASIA_KonoUnityDa_uprush_20211030/ASIA_KonoUnityDa_uprush_20211030
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-50468
-Successfully changed project path to: C:/Users/user/Desktop/Unity_ASIA_KonoUnityDa_uprush_20211030/ASIA_KonoUnityDa_uprush_20211030
-C:/Users/user/Desktop/Unity_ASIA_KonoUnityDa_uprush_20211030/ASIA_KonoUnityDa_uprush_20211030
+56293
+Successfully changed project path to: C:/Users/User/Desktop/Unity_ASIA_KonoUnityDa_uprush_20211030/ASIA_KonoUnityDa_uprush_20211030
+C:/Users/User/Desktop/Unity_ASIA_KonoUnityDa_uprush_20211030/ASIA_KonoUnityDa_uprush_20211030
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 41.36 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 44.28 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Initialize engine version: 2020.3.20f1 (41c4e627c95f)
-[Subsystems] Discovering subsystems at path D:/Program Files/Unity/Hub/Editor/2020.3.20f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/user/Desktop/Unity_ASIA_KonoUnityDa_uprush_20211030/ASIA_KonoUnityDa_uprush_20211030/Assets
+Initialize engine version: 2020.3.18f1 (a7d1c678663c)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/User/Desktop/Unity_ASIA_KonoUnityDa_uprush_20211030/ASIA_KonoUnityDa_uprush_20211030/Assets
 GfxDevice: creating device client; threaded=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
     Renderer: NVIDIA GeForce GTX 1650 (ID=0x1f91)
     Vendor:   
     VRAM:     3962 MB
-    Driver:   27.21.14.5709
+    Driver:   25.21.14.1788
 Initialize mono
-Mono path[0] = 'D:/Program Files/Unity/Hub/Editor/2020.3.20f1/Editor/Data/Managed'
-Mono path[1] = 'D:/Program Files/Unity/Hub/Editor/2020.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
-Mono config path = 'D:/Program Files/Unity/Hub/Editor/2020.3.20f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56816
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56084
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: D:/Program Files/Unity/Hub/Editor/2020.3.20f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
-Register platform support module: D:/Program Files/Unity/Hub/Editor/2020.3.20f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001136 seconds.
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003932 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 39.10 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 46.59 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.558 seconds
+- Completed reload, in  2.295 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1558ms)
-		BeginReloadAssembly (48ms)
+	ReloadAssembly (2295ms)
+		BeginReloadAssembly (55ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (375ms)
-			LoadAssemblies (47ms)
+		EndReloadAssembly (489ms)
+			LoadAssemblies (54ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (133ms)
+			SetupTypeCache (217ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (29ms)
-			SetupLoadedEditorAssemblies (152ms)
+			RebuildScriptCaches (31ms)
+			SetupLoadedEditorAssemblies (164ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (4ms)
+				InitializePlatformSupportModulesInManaged (5ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (39ms)
-				BeforeProcessingInitializeOnLoad (15ms)
-				ProcessInitializeOnLoadAttributes (69ms)
-				ProcessInitializeOnLoadMethodAttributes (25ms)
+				RefreshPlugins (47ms)
+				BeforeProcessingInitializeOnLoad (9ms)
+				ProcessInitializeOnLoadAttributes (75ms)
+				ProcessInitializeOnLoadMethodAttributes (28ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.002757 seconds.
+Registered in 0.003770 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 47.43 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 47.20 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.133 seconds
+- Completed reload, in  1.283 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1134ms)
-		BeginReloadAssembly (127ms)
+	ReloadAssembly (1284ms)
+		BeginReloadAssembly (145ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (5ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (17ms)
-		EndReloadAssembly (957ms)
-			LoadAssemblies (99ms)
+			CreateAndSetChildDomain (18ms)
+		EndReloadAssembly (1066ms)
+			LoadAssemblies (105ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (294ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (60ms)
-			SetupLoadedEditorAssemblies (371ms)
+			SetupTypeCache (322ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (72ms)
+			SetupLoadedEditorAssemblies (391ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (5ms)
+				InitializePlatformSupportModulesInManaged (6ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (48ms)
-				BeforeProcessingInitializeOnLoad (81ms)
-				ProcessInitializeOnLoadAttributes (223ms)
-				ProcessInitializeOnLoadMethodAttributes (12ms)
-				AfterProcessingInitializeOnLoad (2ms)
+				RefreshPlugins (47ms)
+				BeforeProcessingInitializeOnLoad (71ms)
+				ProcessInitializeOnLoadAttributes (244ms)
+				ProcessInitializeOnLoadMethodAttributes (15ms)
+				AfterProcessingInitializeOnLoad (7ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (6ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
-Refreshing native plugins compatible for Editor in 0.46 ms, found 3 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
+Refreshing native plugins compatible for Editor in 1.03 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 2249 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 98.9 MB.
 System memory in use after: 99.0 MB.
 
 Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 2688.
-Total: 3.582200 ms (FindLiveObjects: 0.348100 ms CreateObjectMapping: 0.087700 ms MarkObjects: 3.026200 ms  DeleteObjects: 0.119100 ms)
+Total: 3.808200 ms (FindLiveObjects: 0.227500 ms CreateObjectMapping: 0.078100 ms MarkObjects: 3.329400 ms  DeleteObjects: 0.172400 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -134,48 +134,25 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
+  path: Assets/場景
+  artifactKey: Guid(ebb576e52b92f5741b5300a16840502c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/場景 using Guid(ebb576e52b92f5741b5300a16840502c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aff8c27f0769ce199f29219afab858d4') in 0.009897 seconds 
+  Import took 0.014339 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000348 seconds.
   path: Assets/場景/遊戲場景.unity
   artifactKey: Guid(dc491671912470a4f8df42a6046e101b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/場景/遊戲場景.unity using Guid(dc491671912470a4f8df42a6046e101b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c48e1578e9a7215e771c14a92e3835d9') in 0.013323 seconds 
-  Import took 0.016241 seconds .
+Start importing Assets/場景/遊戲場景.unity using Guid(dc491671912470a4f8df42a6046e101b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7e7538889c3c031c33a86c88b0f2bd3') in 0.012889 seconds 
+  Import took 0.016109 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 15.165667 seconds.
-  path: Assets/場景/開始畫面.unity
-  artifactKey: Guid(c62c34319c94e5e4a9104c35dc82fe52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/場景/開始畫面.unity using Guid(c62c34319c94e5e4a9104c35dc82fe52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1446ebd1f7ac279d8f2b3bc527f0ccf') in 0.002420 seconds 
-  Import took 0.005971 seconds .
+  Time since last request: 0.000253 seconds.
+  path: Assets/動畫
+  artifactKey: Guid(ef27ac78d242527409dac3cb05914314) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/動畫 using Guid(ef27ac78d242527409dac3cb05914314) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dddc98614008538ee03a9a5ea5f3a229') in 0.002041 seconds 
+  Import took 0.004828 seconds .
 
-========================================================================
-Received Import Request.
-  Time since last request: 3.070239 seconds.
-  path: Assets/場景/遊戲場景.unity
-  artifactKey: Guid(dc491671912470a4f8df42a6046e101b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/場景/遊戲場景.unity using Guid(dc491671912470a4f8df42a6046e101b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ea35b445b2ea09dad270c09a88366ab') in 0.002364 seconds 
-  Import took 0.006377 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 358.116836 seconds.
-  path: Assets/場景/遊戲場景.unity
-  artifactKey: Guid(dc491671912470a4f8df42a6046e101b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/場景/遊戲場景.unity using Guid(dc491671912470a4f8df42a6046e101b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ba647e5c1bc46075d8cfa717a28427d') in 0.002163 seconds 
-  Import took 0.006366 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 29.142371 seconds.
-  path: Assets/場景/開始畫面.unity
-  artifactKey: Guid(c62c34319c94e5e4a9104c35dc82fe52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/場景/開始畫面.unity using Guid(c62c34319c94e5e4a9104c35dc82fe52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9953151ea23a98dc871cd227f0e0a1ae') in 0.001893 seconds 
-  Import took 0.004951 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 56.997043 seconds.
-  path: Assets/Prefab/MovingPlatform.prefab
-  artifactKey: Guid(c3b3ed31c7c0a654a9bbf4066aed17a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefab/MovingPlatform.prefab using Guid(c3b3ed31c7c0a654a9bbf4066aed17a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f03624e8ece932d4601b7efa646b6f14') in 0.085319 seconds 
-  Import took 0.088997 seconds .
-
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
