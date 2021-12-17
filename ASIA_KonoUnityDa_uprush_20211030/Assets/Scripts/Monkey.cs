@@ -58,8 +58,8 @@ public class Monkey : MonoBehaviour
     }
 #endregion
 
-#region 方法
-private void Flip()
+    #region 方法
+    private void Flip()
     {
         float h = Input.GetAxis("Horizontal");
 
@@ -84,7 +84,7 @@ private void Flip()
     private void Move()
     {
         float h = Input.GetAxis("Horizontal");
-        print("玩家左右按鍵值:" + h);
+        //print("玩家左右按鍵值:" + h);
         mrig.velocity = new Vector2(h * moveSpeed, mrig.velocity.y);
 
         if (h != 0)
